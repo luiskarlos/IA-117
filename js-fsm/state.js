@@ -13,6 +13,11 @@ module.exports = class State {
     return false;
   }
   /**
+   * El estado toma una decicion en base al mensaje q llego
+   */
+  onMessage(event) {
+  }
+  /**
    * Se llama cada vez que el estado se activa
    */
   onEnter(eventEmitter, fsm) {     

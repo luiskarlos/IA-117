@@ -2,7 +2,7 @@
 
 module.exports = (() => {
   /**
-   * Simgleton object
+   * Singleton object
    * FSM subscribe to receive messages
    * Se encarga de recibir y despachar los eventos del sistema
    * Los mensajes generados dentro del ciclo se despachan hasta el siguiente ciclo
@@ -18,6 +18,7 @@ module.exports = (() => {
      * Despachar los mensajes que esten en la cola
      */
     update() {
+      console.log(`[Update] EventEmitter ${this._queue.length}`);
       for(;this._queue.length > 0;) {
         this._queue.shift()();
       }
@@ -68,7 +69,7 @@ module.exports = (() => {
      */
     _sendToAll(event) {
       const self = this;
-      this._addToQueue(() => { 
+      this._addToQueue(() => {
         self._listeners.forEach((l) => l.onMessage(this, event))
       });
     }

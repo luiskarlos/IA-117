@@ -33,7 +33,7 @@ module.exports = class Fsm {
         this._current.onUpdate(eventEmitter, this);
       }
     } else {
-      const state = this._states.find((s) => s.accepts(event))
+      const state = this._states.find((s) => s.accepts(event));
       const accepted = state && state !== this._current;
       if (accepted) {
         if (this._current) {
@@ -41,6 +41,8 @@ module.exports = class Fsm {
         }
         this._current = state;
         this._current.onEnter(eventEmitter, this);
+      } else if (this._current) {
+        this._current.onMessage(event);
       }
     }
   }  
