@@ -9,5 +9,11 @@
 ##Semana 2
 1. [Presnetacion](https://docs.google.com/presentation/d/1aQuOLXxMLJy9JXxCCnxdcAvmOoOdQbk0tYwzMtwx6y0/edit?usp=sharing)
 2. Contenido disponible en:
-  * Temporalmente en: git clone https://github.com/luiskarlos/IA-117
-  * TEC: http://git.ec.tec.ac.cr/
+  * git clone https://github.com/luiskarlos/IA-117
+
+##Semana 3  
+1. [Presnetacion](https://docs.google.com/presentation/d/1bsFLRYYV_zBzvChQ8p1rSDSFv0_zlV6o53hGKuwjpXs/edit?usp=sharing)
+2. Bibliografia [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+3. Ejercicios:
+  *  [saveprincess](https://www.hackerrank.com/challenges/saveprincess)
+  *  [botclean](https://www.hackerrank.com/challenges/botclean)
