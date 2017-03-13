@@ -24,3 +24,12 @@
 * Capitulo 3
 3. Ejercicios:
   *  [BFS Short Reach](https://www.hackerrank.com/challenges/bfsshortreach)
+  
+##Semana 5  
+1. [Presentacion](https://docs.google.com/presentation/d/1HHMcnbsN_QTwZwalcIl_wmG2AdK1xUC8cFr13dRNJm4/edit?usp=sharing)
+2. Bibliografia [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+* Capitulo 3.5
+3. Ejercicios:
+  *  [PacMan - DFS](https://www.hackerrank.com/challenges/pacman-dfs)
+     * ejercicios/e4pacmandfs 
+  
