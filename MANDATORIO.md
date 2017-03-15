@@ -11,13 +11,22 @@ Agregar el siguiente archivo en la raiz del su repositorio de git:
 ```json
 {
   "nombre": "aaa aaa aaa aaa",
+  "nick": "super-duper-",
   "cedula": "#########",
   "tec-id": "########",
   "email": "aaaa@aaaaa.aaa",
   "git": "GIT_URL",
+  "git-site": "GIT_SITE",
   "hakerrank": "HACKERRANK_PROFILE"
 }
 ```
+
+* nick: es opcional, se usara el tec-id si no se especifica. Ejemplo: "nick": "megalocodeman"
+* git: checkout url. Ejemplo: "git": "https://github.com/luiskarlos/IA-117.git"
+* git-site: Ejemplo: "git-site": "https://github.com/luiskarlos/IA-117"
+* hakerrank: Ejemplo: "hakerrank": "https://www.hackerrank.com/luiskarlos"
+
+
 ## Informacion necesaria por **TRABAJO**
 
 **TODO TRABAJO QUE NO TENGA ESTA INFORMACION NO SE CONSIDERA VALIDO**
