@@ -17,7 +17,7 @@ Agregar el siguiente archivo en la raiz del su repositorio de git:
   "hakerrank": "HACKERRANK_PROFILE"
 }
 ```
-**TODO TRABAJO QUE NO TENGA ESTA INFORMACION NO SE CONSIDERA VALIDO**
+# **TODO TRABAJO QUE NO TENGA ESTA INFORMACION NO SE CONSIDERA VALIDO**
 
 Para cada trabajo agregar:
 
@@ -39,6 +39,9 @@ Para cada trabajo agregar:
 * onTime: no incluya los []. ejemplo: **onTime: "yes"**
 * grupo: si su solucion es identica a las de otros compañeros y el trabajo en grupo estaba permitido
         de lo contrario colocar **[]**
+
+## Salvar la pagina que muestra el resultado con el nombre **hackerrank.htm**
+
 
 # IMPORTANTE:
 * WATCH [https://github.com/luiskarlos/IA-117](https://github.com/luiskarlos/IA-117) es **MANDATORIO**
