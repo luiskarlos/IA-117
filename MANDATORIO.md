@@ -1,6 +1,7 @@
 # MANDATORIO 
 
-Informacion necesaria en la raiz y cada ejercicio
+## Informacion necesaria en la **RAIZ**
+
 **NO SE ACEPTA NINGUN TRABAJO SI NO ESTA ESTE ARCHIVO**
 
 Agregar el siguiente archivo en la raiz del su repositorio de git:
@@ -17,7 +18,9 @@ Agregar el siguiente archivo en la raiz del su repositorio de git:
   "hakerrank": "HACKERRANK_PROFILE"
 }
 ```
-# **TODO TRABAJO QUE NO TENGA ESTA INFORMACION NO SE CONSIDERA VALIDO**
+## Informacion necesaria por **TRABAJO**
+
+**TODO TRABAJO QUE NO TENGA ESTA INFORMACION NO SE CONSIDERA VALIDO**
 
 Para cada trabajo agregar:
 
@@ -37,11 +40,13 @@ Para cada trabajo agregar:
 * lenguaje: identico al especificado en hackerrank
 * score: ultimo puntaje optenido en hackerrank
 * onTime: no incluya los []. ejemplo: **onTime: "yes"**
-* grupo: si su solucion es identica a las de otros compañeros y el trabajo en grupo estaba permitido
-        de lo contrario colocar **[]**
+* grupo: si el trabajo en grupo estaba permitido llenar el campo, de lo contrario colocar **[]**
 
-## Salvar la pagina que muestra el resultado con el nombre **hackerrank.htm**
+### Salvar el html de la pagina que muestra el resultado y el codigo con el nombre **hackerrank.htm**
 
+![Pagina](https://content.screencast.com/users/luiskarlos/folders/Jing/media/8730cb6b-0c77-4684-97f4-7d6fd52b6d86/00000166.png)
+
+### ** VER Ejemplo [/ejercicios/e3bfsshortreach](https://github.com/luiskarlos/IA-117/tree/master/ejercicios/e3bfsshortreach) **
 
 # IMPORTANTE:
 * WATCH [https://github.com/luiskarlos/IA-117](https://github.com/luiskarlos/IA-117) es **MANDATORIO**
