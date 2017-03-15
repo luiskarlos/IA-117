@@ -17,7 +17,7 @@ Agregar el siguiente archivo en la raiz del su repositorio de git:
   "hakerrank": "HACKERRANK_PROFILE"
 }
 ```
-**TODO EJERCICIO QUE NO TENGA ESTA INFORMACION NO SE CONSIDERA VALIDO**
+**TODO TRABAJO QUE NO TENGA ESTA INFORMACION NO SE CONSIDERA VALIDO**
 
 Para cada trabajo agregar:
 
