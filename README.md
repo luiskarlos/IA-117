@@ -30,6 +30,12 @@
 2. Bibliografia [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 * Capitulo 3.5
 3. Ejercicios:
-  *  [PacMan - DFS](https://www.hackerrank.com/challenges/pacman-dfs)
-     * ejercicios/e4pacmandfs 
-  
+  *  [PacMan - A*](https://www.hackerrank.com/challenges/pacman-astar)
+     * ejercicios/e5pacmanstar
+
+##Semana 6  
+1. [Lectura: A*’s Use of the Heuristic](http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
+1. Ejercicios:
+  *  [NPuzzle](https://www.hackerrank.com/challenges/n-puzzle)
+     * ejercicios/e6npuzzle
+1. Proximo Lunes 3, 2017 quiz sobre la lectura  
