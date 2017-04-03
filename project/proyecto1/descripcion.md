@@ -61,7 +61,6 @@ Funcionalidad Completa |           | 1        | 15     | 15
 *Modificacion |Simple     | 5        | 5      | 25
 *Modificacion |Mediana    | 2        | 10     | 20
 *Modificacion |Dificil    | 1        | 20     | 25
-              |           | 9        |        | 100
  
  * *Modificacion durante la revision
  * Si el implementador lo desea puede agregar funcionalidad que **PODRIA** ser usada para reemplazar las modificaciones en la entrega. (Queda a criterio del que revisa determinar si aplica o no como modificacion y la dificultad)
