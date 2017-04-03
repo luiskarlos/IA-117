@@ -34,19 +34,19 @@ Cuando un cliente llega a su destino se elimina del mapa
 * [clientes 2](mapas/clientes-2.txt)
 
 ## Requerimientos Tecnicos
+
 1. El programa:
   * Debe ser capaz de mantenerse corriendo mientras recibe instrucciones
   * Inicia con "animar 0"
-1. Interface de usuario:
+2. Interface de usuario:
   * Mostrar la simulacion imprimiendo el mapa con los indicadores necesarios (Puede utilizar la consola)
   * La entrada no debe bloquear el despliegue en consola. Por ejemplo en java puede abrir una ventana de Swing para recibir las instrucciones
   * Queda a discrecion del implementador utilizar otros medios para mostrar y recibir informacion, siempre y cuando mantenga y/o extienda funcionalidad
-1. Git
+3. Git
   * El proyecto debe estar en un branch aparte llamado proyecto1
   * La version final entregable debe estar en master
   * La descripcion del commit es importante y debe reflejar el estado acutal del programa
   * Se recomienda hacer commit cada cierto tiempo. El hecho de que no compile no es importante
-  
 
 * Las letras y simbolos en el mapa se pueden modificar a voluntad.
 
