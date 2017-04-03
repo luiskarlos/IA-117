@@ -1,0 +1,8 @@
+Fuente,Trabajo,Nota,Puntos,aTiempo,Estado
+NA,tarea1fsm,0,--/--,No,Pendiente
+/ejercicios/e2-BotClean/info.json,botclean,100,--/--,yes,
+/ejercicios/e1-BotSavesPrincess/info.json,saveprincess,100,--/--,yes,
+/ejercicios/e3-BreadthFirstSearchShortestReach/info.json,bfsshortreach,100,55/55.0,yes,
+NA,pacman-dfs,0,--/--,No,Opcional
+/ejercicios/e4-PacmanAStar/info.json,pacman-astar,100.0,5.00/5.0,yes,
+NA,n-puzzle,0,--/--,No,Pendiente
