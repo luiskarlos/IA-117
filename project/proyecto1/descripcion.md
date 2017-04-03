@@ -41,6 +41,12 @@ Cuando un cliente llega a su destino se elimina del mapa
   * Mostrar la simulacion imprimiendo el mapa con los indicadores necesarios (Puede utilizar la consola)
   * La entrada no debe bloquear el despliegue en consola. Por ejemplo en java puede abrir una ventana de Swing para recibir las instrucciones
   * Queda a discrecion del implementador utilizar otros medios para mostrar y recibir informacion, siempre y cuando mantenga y/o extienda funcionalidad
+1. Git
+  * El proyecto debe estar en un branch aparte llamado proyecto1
+  * La version final entregable debe estar en master
+  * La descripcion del commit es importante y debe reflejar el estado acutal del programa
+  * Se recomienda hacer commit cada cierto tiempo. El hecho de que no compile no es importante
+  
 
 * Las letras y simbolos en el mapa se pueden modificar a voluntad.
 
@@ -56,14 +62,21 @@ Por este medio, yo: _______________________________________, como estudiante act
  
  Dificultad    |Dificultad | Cantidad | Valor  | Total
 ----------    |---------- | ---------| ------ | -------------
-[x] Funcionalidad Minima |           | 1        | 15     | 15
-Funcionalidad Completa |           | 1        | 15     | 15
+[x] Funcionalidad Minima |           | 1        | 10     | 10
+Funcionalidad Completa |           | 1        | 10     | 10
+Git Historial |           | 1        | 10     | 10
 *Modificacion |Simple     | 5        | 5      | 25
 *Modificacion |Mediana    | 2        | 10     | 20
 *Modificacion |Dificil    | 1        | 20     | 25
  
  * *Modificacion durante la revision
- * Si el implementador lo desea puede agregar funcionalidad que **PODRIA** ser usada para reemplazar las modificaciones en la entrega. (Queda a criterio del que revisa determinar si aplica o no como modificacion y la dificultad)
+ * Si el implementador lo desea puede agregar funcionalidad que **PODRIA** ser usada para reemplazar las modificaciones en la entrega. (Queda a criterio del que revisa determinar si aplica o no como modificacion y la dificultad). Originilidad y creatividad son puntos importantes. Documentar en el readme estos features en una seccion llamada **Adcionales** describir en una tabla con una colunma de nombre y otra de descripcion. (Ver Ejemplo)
  * Usar [info.json](info.json) en proyecto para su proyecto.
+
+## Adicionales (Esta seccion es de ejemplo)
+Nombre    |Descripcion
+----------|---------- 
+nnnnn     | ddddddddd
+
 
 
