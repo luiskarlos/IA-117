@@ -38,4 +38,10 @@
 1. Ejercicios:
   *  [NPuzzle](https://www.hackerrank.com/challenges/n-puzzle)
      * ejercicios/e6npuzzle
-1. Proximo Lunes 3, 2017 quiz sobre la lectura  
+1. Proximo Lunes 3, 2017 quiz sobre la lectura
+
+## Semana 9
+1. [Intro Redes Neuronales](https://docs.google.com/presentation/d/1iEZ-NS57ZJApwJPFVUi8ty_F9JhMrB5guWlsAP30nmY/edit?usp=sharing)
+1. Libro de referencia: Make Your Own Neural Network
+1. El proyecto es para entregar el proximo Lunes 24
+
