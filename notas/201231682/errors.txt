@@ -18,3 +18,7 @@ Error
     File: /Ejercicios/E5-pacman-astar/info.json
     Message: JsResultException(errors:List((/languaje,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
 
+Error
+    File: /Ejercicios/E6-n-puzzle/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray()))), (/languaje,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+

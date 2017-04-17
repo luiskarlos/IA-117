@@ -1,0 +1,13 @@
+Error
+    File: /ejercicios/e5-n_puzzle/info.json
+    Message: Illegal unquoted character ((CTRL-CHAR, code 10)): has to be escaped using backslash to be included in string value
+ at [Source: {
+  "main": "n-puzzle.cpp",
+  "url": "https://www.hackerrank.com/challenges/n-puzzle,
+  "languaje": "C++",
+  "onTime": "yes",
+  "score": "54.0",
+  "honorCode": "Se logra implementar el algoritmo",
+  "grupo": []
+}; line: 3, column: 59]
+

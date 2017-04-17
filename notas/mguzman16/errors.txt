@@ -1,6 +1,6 @@
 Error
     File: /ejercicios/e1saveprincess/info.json
-    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray()))), (/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
 
 Error
     File: /ejercicios/e2botclean/info.json
@@ -13,4 +13,13 @@ Error
 Error
     File: /ejercicios/e4pacmandfs/info.json
     Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+
+Error
+    File: /ejercicios/e5pacmanstar/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray()))), (/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+
+Error
+    File: /ejercicios/e6npuzzle/info.json
+    Message: No content to map due to end-of-input
+ at [Source: ; line: 1, column: 0]
 

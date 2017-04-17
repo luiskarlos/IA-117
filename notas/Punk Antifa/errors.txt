@@ -1,8 +1,8 @@
 Error
-    File: /Ejercicios/e2-BotClean/info.json
+    File: /ejercicios/e5-npuzzle/info.json
     Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
 
 Error
-    File: /Ejercicios/e4-pacmanAstar/info.json
+    File: /tareas/t1-fsm/js-fsm/info.json
     Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
 
