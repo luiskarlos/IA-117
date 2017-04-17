@@ -1,0 +1,26 @@
+Error
+    File: /ejercicios/e3-bfsshortreach/info.json
+    Message: Unrecognized character escape 's' (code 115)
+ at [Source: {
+  "main": "BFS\src\Main.java",
+  "url": "https://www.hackerrank.com/challenges/bfsshortreach",
+  "languaje": "java",
+  "onTime": "yes",
+  "score": "55.0",
+  "honorCode": "La informacion es correcta y se ajusta al codigo de honor y reglamentos establecidos",
+  "grupo": []
+}; line: 2, column: 17]
+
+Error
+    File: /ejercicios/e4-pacman/info.json
+    Message: Unrecognized character escape 'M' (code 77)
+ at [Source: {
+  "main": "src\Main.java",
+  "url": "https://www.hackerrank.com/challenges/pacman-astar",
+  "languaje": "java",
+  "onTime": "yes",
+  "score": 5.0,
+  "honorCode": "La informacion es correcta y se ajusta al codigo de honor y reglamentos establecidos",
+  "grupo": []
+}; line: 2, column: 17]
+

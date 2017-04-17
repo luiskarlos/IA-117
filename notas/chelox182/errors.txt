@@ -1,0 +1,4 @@
+Error
+    File: /Ejercicios/Ejercicio3 bfsshortreach/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+

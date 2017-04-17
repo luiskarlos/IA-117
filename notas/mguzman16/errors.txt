@@ -1,0 +1,16 @@
+Error
+    File: /ejercicios/e1saveprincess/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray()))), (/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+
+Error
+    File: /ejercicios/e2botclean/info.json
+    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+
+Error
+    File: /ejercicios/e3bfsshortreach/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray()))), (/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+
+Error
+    File: /ejercicios/e4pacmandfs/info.json
+    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+

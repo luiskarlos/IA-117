@@ -1,6 +1,6 @@
 Fuente,Trabajo,Nota,Puntos,aTiempo,Estado
 NA,tarea1fsm,0,--/--,No,Pendiente
-NA,botclean,0,--/--,No,No Entregada
+/ejercicios/e2 - botclean/info.json,botclean,100,--/--,yes,
 /ejercicios/e1 - botsavesprincess/info.json,saveprincess,100,--/--,yes,
 /ejercicios/e3 - bfs/info.json,bfsshortreach,100.0,55.00/55.0,yes,
 NA,pacman-dfs,0,--/--,No,Opcional

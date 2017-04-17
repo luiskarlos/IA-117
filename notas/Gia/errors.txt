@@ -1,0 +1,20 @@
+Error
+    File: /ejercicios/e1-savetheprincess/info.json
+    Message: JsResultException(errors:List((/languaje,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+
+Error
+    File: /ejercicios/e2-botclean/info.json
+    Message: JsResultException(errors:List((/languaje,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+
+Error
+    File: /ejercicios/e3-SearchGraph/info.json
+    Message: JsResultException(errors:List((/languaje,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+
+Error
+    File: /ejercicios/e4-pacman/info.json
+    Message: JsResultException(errors:List((/languaje,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+
+Error
+    File: /ejercicios/e5-pacmanAstar/info.json
+    Message: JsResultException(errors:List((/languaje,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+

@@ -1,0 +1,8 @@
+Error
+    File: /ejercicios/e1-saveprincess/info.json
+    Message: JsResultException(errors:List((/grupo(0),List(JsonValidationError(List(error.expected.jsstring),WrappedArray()))), (/grupo(1),List(JsonValidationError(List(error.expected.jsstring),WrappedArray())))))
+
+Error
+    File: /tareas/t1-fsm/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+

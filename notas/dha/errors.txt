@@ -1,0 +1,4 @@
+Error
+    File: /ejercicios/ej3-BreathFirstSearch/info.json
+    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+

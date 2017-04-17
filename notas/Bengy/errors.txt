@@ -1,0 +1,4 @@
+Error
+    File: /Tareas/t1-fsm/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.jsnumberorjsstring),WrappedArray()))), (/url,List(JsonValidationError(List(error.expected.jsstring),WrappedArray())))))
+

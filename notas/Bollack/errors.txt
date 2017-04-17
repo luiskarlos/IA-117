@@ -1,0 +1,4 @@
+Error
+    File: /tareas/tarea1-fsm/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+

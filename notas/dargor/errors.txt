@@ -1,0 +1,8 @@
+Error
+    File: /Ejercicios/e2-BotClean/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+
+Error
+    File: /Ejercicios/e4-pacmanAstar/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+
