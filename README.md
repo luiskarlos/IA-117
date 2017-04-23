@@ -45,3 +45,7 @@
 1. Libro de referencia: Make Your Own Neural Network
 1. El proyecto es para entregar el proximo Lunes 24
 
+## Semana 10
+1. Clases del dia Lunes 24 de Abril quedan suspendidas, tomenlo en cuenta.
+
+
