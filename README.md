@@ -46,6 +46,7 @@
 1. El proyecto es para entregar el proximo Lunes 24
 
 ## Semana 10
+1. La entrega de la tarea se pasa para el Viernes 28 de Abril, a las 6pm el commit.
 1. Clases del dia Lunes 24 de Abril quedan suspendidas, tomenlo en cuenta.
 
 
