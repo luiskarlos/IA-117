@@ -50,7 +50,7 @@
 1. Clases del dia Lunes 24 de Abril quedan suspendidas, tomenlo en cuenta.
 
 ## Semana 11
-1. [Neural Nets](https://docs.google.com/a/backcountry.com/presentation/d/1d3T3pPYFVv2dD3OxsJCUvApLs9jrVWI3hhksrYM1kD0/edit?usp=sharing)
+1. [Neural Nets](https://docs.google.com/presentation/d/1f_nJPtXwz2RivA4M44eMTkXxJS1k_negE_-3HLJ_zrg/edit?usp=sharing)
 1. Libro de referencia: Make Your Own Neural Network
 
 
