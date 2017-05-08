@@ -49,4 +49,9 @@
 1. La entrega de la tarea se pasa para el Viernes 28 de Abril, a las 6pm el commit.
 1. Clases del dia Lunes 24 de Abril quedan suspendidas, tomenlo en cuenta.
 
+## Semana 11
+1. [Neural Nets](https://docs.google.com/a/backcountry.com/presentation/d/1d3T3pPYFVv2dD3OxsJCUvApLs9jrVWI3hhksrYM1kD0/edit?usp=sharing)
+1. Libro de referencia: Make Your Own Neural Network
+
+
 
