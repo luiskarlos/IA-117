@@ -1,0 +1,4 @@
+Error
+    File: /Proyectos/Proyecto1/info.json
+    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
+

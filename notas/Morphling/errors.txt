@@ -1,0 +1,13 @@
+Error
+    File: /proyecto1/info.json
+    Message: Unexpected character ('"' (code 34)): was expecting comma to separate Object entries
+ at [Source: {
+  "main": "index.html"
+  "url": "proyectos/proyecto1",
+  "languaje": "javascript"
+  "onTime": "yes",
+  "score": "100",
+  "honorCode": "La informacion es correcta y se ajusta al codigo de honor y reglamentos establecidos",
+  "grupo": []
+}; line: 3, column: 4]
+
