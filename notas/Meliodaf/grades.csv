@@ -2,8 +2,9 @@ Fuente,Trabajo,Nota,Puntos,aTiempo,Estado
 NA,tarea1fsm,0,--/--,No,Pendiente
 /ejercicios/botclean/info.json,botclean,100,--/--,yes,
 /ejercicios/saveprincess/info.json,saveprincess,100,--/--,yes,
-/ejercicios/bfsbreadthfirstsearch/info.json,bfsshortreach,100.0,55.00/55.0,yes,
+/ejercicios/bfsbreadthfirstsearch/info.json,bfsshortreach,100,55.00/55.0,yes,
 /ejercicios/e4pacmandfs/info.json,pacman-dfs,0,0.00/15.0,yes,
 NA,pacman-astar,0,--/--,No,No Entregada
-NA,n-puzzle,0,--/--,No,Pendiente
+NA,n-puzzle,0,--/--,No,No Entregada
 /proyectos/info.json,proyecto1,50,50/100.0,yes,
+/proyectos/info.json,examen1,50,50/100.0,yes,

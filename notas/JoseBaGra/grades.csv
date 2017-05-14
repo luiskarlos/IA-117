@@ -4,6 +4,7 @@ NA,tarea1fsm,0,--/--,No,Pendiente
 /ejercicios/e1-BotSavesPrincess/info.json,saveprincess,100,--/--,yes,
 /ejercicios/e3-BreadthFirstSearchShortestReach/info.json,bfsshortreach,100,55/55.0,yes,
 NA,pacman-dfs,0,--/--,No,Opcional
-/ejercicios/e4-PacmanAStar/info.json,pacman-astar,100.0,5.00/5.0,yes,
-/ejercicios/e5-NPuzze/info.json,n-puzzle,93,54/58.0,yes,
+/ejercicios/e4-PacmanAStar/info.json,pacman-astar,100,5.00/5.0,yes,
+/ejercicios/e5-NPuzze/info.json,n-puzzle,100,54/54.0,yes,
 /proyectos/Proyecto1/info.json,proyecto1,100,100/100.0,yes,
+/proyectos/Proyecto1/info.json,examen1,100,100/100.0,yes,
