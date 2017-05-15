@@ -53,5 +53,9 @@
 1. [Neural Nets](https://docs.google.com/presentation/d/1f_nJPtXwz2RivA4M44eMTkXxJS1k_negE_-3HLJ_zrg/edit?usp=sharing)
 1. Libro de referencia: Make Your Own Neural Network
 
-
+## Semana 12
+1. [Back Propagation](https://docs.google.com/presentation/d/1GJ8iTEekx8J1Qy7Rb2BUj0Xd1C_aHfYV8ayIPy_Gy8s/edit?usp=sharing)
+1. [Implementacion en python Neural Net](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/part2_neural_network.ipynb)
+1. [Python Notebooks](http://jupyter.readthedocs.io/en/latest/install.html)
+1. Libro de referencia: Make Your Own Neural Network
 
