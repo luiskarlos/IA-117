@@ -1,25 +1,25 @@
 Error
-    File: /ejercicios/e1saveprincess/info.json
-    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
-
-Error
-    File: /ejercicios/e2botclean/info.json
-    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
-
-Error
-    File: /ejercicios/e3bfsshortreach/info.json
+    File: /ejercicios/bfsshortreach/info.json
     Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray()))), (/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
 
 Error
-    File: /ejercicios/e4pacmandfs/info.json
+    File: /ejercicios/botclean/info.json
     Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
 
 Error
-    File: /ejercicios/e5pacmanstar/info.json
-    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray()))), (/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
-
-Error
-    File: /ejercicios/e6npuzzle/info.json
+    File: /ejercicios/n-puzzle/info.json
     Message: No content to map due to end-of-input
  at [Source: ; line: 1, column: 0]
+
+Error
+    File: /ejercicios/pacman-astar/info.json
+    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+
+Error
+    File: /ejercicios/pacman-dfs/info.json
+    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
+
+Error
+    File: /ejercicios/saveprincess/info.json
+    Message: JsResultException(errors:List((/grupo,List(JsonValidationError(List(error.expected.jsarray),WrappedArray())))))
 

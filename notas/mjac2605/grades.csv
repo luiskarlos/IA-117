@@ -4,7 +4,7 @@ NA,tarea1fsm,0,--/--,No,Pendiente
 /Tareas/Hackerrank/Save-princess/info.json,saveprincess,100,--/--,yes,
 /Tareas/Hackerrank/bffsshortreach/info.json,bfsshortreach,100,55.0/55.0,yes,
 NA,pacman-dfs,0,--/--,No,Opcional
-NA,pacman-astar,0,--/--,No,No Entregada
-NA,n-puzzle,0,--/--,No,No Entregada
-NA,proyecto1,0,--/--,No,No Entregada
-NA,examen1,0,--/--,No,No Entregada
+/Tareas/Hackerrank/Pacman-Astar/info.json,pacman-astar,0,100/5.0,yes,
+/Tareas/Hackerrank/N-puzzle/info.json,n-puzzle,0,0/54.0,no,
+/Proyecto1/info.json,proyecto1,85,85/100.0,yes,
+/Proyecto1/info.json,examen1,85,85/100.0,yes,
