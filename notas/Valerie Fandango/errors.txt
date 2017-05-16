@@ -1,17 +1,4 @@
 Error
-    File: /proyectos/proyecto1/info.json
-    Message: Unrecognized character escape 'p' (code 112)
- at [Source: {
-  "main": "proyectos\proyecto1\Taxi\src\Main.java",
-  "url": "proyectos/proyecto1",
-  "lenguaje": "Java 8",
-  "onTime": "yes",
-  "score": "100",
-  "honorCode": "La informacion es correcta y se ajusta al codigo de honor y reglamentos establecidos",
-  "grupo": []
-}; line: 2, column: 23]
-
-Error
     File: /tareas/tarea1-fsm/info.json
     Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
 

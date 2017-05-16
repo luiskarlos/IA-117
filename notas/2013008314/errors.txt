@@ -1,8 +1,0 @@
-Error
-    File: /ejercicio/bfsshortreach/info.json
-    Message: JsResultException(errors:List((/score,List(JsonValidationError(List(error.expected.numberformatexception),WrappedArray())))))
-
-Error
-    File: /proyectos/proyecto1/info.json
-    Message: JsResultException(errors:List((/grupo(0),List(JsonValidationError(List(error.expected.jsstring),WrappedArray())))))
-

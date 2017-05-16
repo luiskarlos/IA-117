@@ -1,10 +1,10 @@
 Fuente,Trabajo,Nota,Puntos,aTiempo,Estado
 NA,tarea1fsm,0,--/--,No,Pendiente
-NA,botclean,0,--/--,No,No Entregada
-NA,saveprincess,0,--/--,No,No Entregada
-NA,bfsshortreach,0,--/--,No,No Entregada
+/Ejercicios/e2-botclean/info.json,botclean,100,--/--,yes,
+/Ejercicios/e1-saveprincess/info.json,saveprincess,100,--/--,yes,
+/Ejercicios/e3-BFS Short Reach/info.json,bfsshortreach,100,55/55.0,yes,
 NA,pacman-dfs,0,--/--,No,Opcional
-NA,pacman-astar,0,--/--,No,No Entregada
-NA,n-puzzle,0,--/--,No,No Entregada
+/Ejercicios/e4-Pacman AStar/info.json,pacman-astar,100,5/5.0,yes,
+/Ejercicios/e5-NPuzzle/info.json,n-puzzle,33,18/54.0,yes,
 /Proyectos/Proyecto1/info.json,proyecto1,58,58/100.0,yes,
 /Proyectos/Proyecto1/info.json,examen1,58,58/100.0,yes,
