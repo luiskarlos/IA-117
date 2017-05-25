@@ -24,7 +24,8 @@ Todos los vehículos son autónomos por lo cual la colision de vehiculos es 0. S
   * Implementación de la máquina de estados o equivalente
   * Implementación del A*
      + Debe considerar los congestionamientos
-  * La simulacion debe mostrar el congestionamiento en el mapa 
+  * La simulacion debe mostrar el congestionamiento en el mapa
+  * Uso de GIT con multiples commits para demostrar el progreso
 
 ### Simulación de
 * Multiples taxis
