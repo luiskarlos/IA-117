@@ -7,7 +7,7 @@
 Proyecto de investigacion y aplicacion
 Aplique lo visto en clases sobre redes neuronales (RN) a su proyecto.
  
-##Objectivo:
+## Objectivo:
 Determinar la posibilidad de utilizar las redes neuronales para enseñar a conducir el taxi en la ciudad.
  
 ## Entregables
