@@ -1,6 +1,6 @@
 # Proyecto 3
  
-* Fecha de entrega: **Sabado 20 de Junio 2017. Hasta la media Noche**
+* Fecha de entrega: **Martes 20 de Junio 2017. Hasta la media Noche**
 * Basado en el proyecto 2.
  
 # Descripción:
